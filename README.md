@@ -1,6 +1,6 @@
 # Slide Matcher
 
-Digital Signal Analysis & Applications Project | Spring 2019
+Digital Signal Analysis and Applications Project | Spring 2019
 
 ## Team Get Rect
 [Rohan Chacko](https://github.com/RohanChack) [AadilMehdi Sanchawala](https://github.com/aadilmehdis) [Sumaid Syed](https://github.com/Sumaid)
